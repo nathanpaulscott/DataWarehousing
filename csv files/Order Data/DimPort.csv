@@ -1,0 +1,49 @@
+Port_Id,Port Name,Country,Country_Id,New name,Code,Lat,Lon
+1,India_Port10,India,2,Kandla,INIXY,23,23
+2,Russia_Port1,Russia,4,St Petersburg,SULED,59.93333333,59.93333333
+3,Russia_Port8,Russia,4,Archangel,SUARC,64.53333333,64.53333333
+4,China_Port2,China,1,Dalian,CNDLC,38.91666667,121.65
+5,India_Port6,India,2,Cochin,INCOK,9.966666667,9.966666667
+6,Korea_Port1,Korea,8,Incheun,KRINC,37.48333333,37.48333333
+7,Germany_Port2,Germany,5,Hamburg,DEHAM,53.55,53.55
+8,China_Port12,China,1,Yingkou,CNNWC,40.71666667,40.71666667
+9,Russia_Port6,Russia,4,Kaliningrad,SUKLD,54.7,54.7
+10,Japan_Port1,Japan,7,Yokohama,JPYOK,35.45,35.45
+11,India_Port1,India,2,Mormugao,INMRM,15.41666667,15.41666667
+12,Russia_Port2,Russia,4,Novorossisk,SUNVS,44.71666667,44.71666667
+13,China_Port10,China,1,Tsamkong,CNZHA,21.16666667,21.16666667
+14,Russia_Port5,Russia,4,Vladivostok,SUVVO,43.16666667,43.16666667
+15,Indonesia_Port3,Indonesia,3,Jakarta,IDJKT,-6.15,-6.15
+16,China_Port6,China,1,Qinhuangdao,CNQHA,40,40
+17,Germany_Port1,Germany,5,Bremerhaven,DEBRV,53.55,53.55
+18,China_Port5,China,1,Nanking,CNNKG,32.05,32.05
+19,Korea_Port2,Korea,8,Pyeong Taek,KRINC,37.48333333,37.48333333
+20,Germany_Port3,Germany,5,Rostock,DERSK,54.15,54.15
+21,Russia_Port4,Russia,4,Leningrad,SULED,59.93333333,59.93333333
+22,Indonesia_Port2,Indonesia,3,Surabaja,IDSUB,-7.2,-7.2
+23,China_Port7,China,1,Yantai,CNYAN,37.55,37.55
+24,China_Port11,China,1,Weihai,CNWEI,37.5,37.5
+25,India_Port3,India,2,Bombay,INBOM,18.93333333,18.93333333
+26,China_Port4,China,1,Qingdao,CNTAO,36.05,36.05
+27,Japan_Port2,Japan,7,Shimizu,JPSMZ,35.01666667,35.01666667
+28,India_Port8,India,2,Visakhapatnam,INVTZ,17.68333333,17.68333333
+29,China_Port3,China,1,Shanghai,CNSHA,31.23333333,31.23333333
+30,Mexio_Port1,Mexico,10,Vera Cruz,MXVER,19.2,19.2
+31,Indonesia_Port1,Indonesia,3,Medan,IDMES,3.666666667,3.666666667
+32,India_Port7,India,2,Karikal,INKRK,10.91666667,10.91666667
+33,India_Port4,India,2,Calcutta,INCCU,22.53333333,22.53333333
+34,Russia_Port3,Russia,4,Odessa,SUODS,46.5,46.5
+35,India_Port9,India,2,Mangalore (New),INIXE,12.91666667,12.91666667
+36,China_Port9,China,1,Xiamen,CNXMN,24.43333333,24.43333333
+37,China_Port1,China,1,Guangzhou,CNCAN,23.13333333,23.13333333
+38,China_Port8,China,1,Zhanjiang,CNZHA,21.16666667,21.16666667
+39,Russia_Port7,Russia,4,Murmansk,SUMMK,69,69
+40,USA_Port2,USA,6,Los Angeles,USLAX,33.71666667,33.71666667
+41,India_Port2,India,2,Madras,INMAA,13.1,13.1
+42,USA_Port1,USA,6,Norfolk,USNOR,36.85,36.85
+43,India_Port5,India,2,Kakinada,INKAK,16.93333333,16.93333333
+44,Brasil_Port1,Brasil,9,Rio De Janeiro,BRRIO,-22.9,-22.9
+45,Brasil_Port2,Brasil,9,Porto Alegre,BRPOA,-30.06666667,-30.06666667
+46,Mexico_Port1,Mexico,10,Ensenada,MXESE,31.75,31.75
+47,Mexico_Port2,Mexico,10,Mazatlan,MXMZT,23.18333333,23.18333333
+48,Port Headland,Australia,11,Port Headland,AUPHE,-20.31,118.61

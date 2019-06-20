@@ -1,0 +1,7 @@
+Deal_Id,Deal Name,Discount,Late Shipment Penalty,Late Payment Penalty
+1,Best Customer,30,2,2
+2,Good Customer,15,4,4
+3,Standard Customer,0,10,10
+4,Difficult Customer,-10,15,15
+5,Super Difficult Customer,-20,20,20
+6,Dodgy Customer,-30,30,30

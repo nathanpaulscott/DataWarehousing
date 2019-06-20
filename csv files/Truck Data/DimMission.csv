@@ -1,0 +1,8 @@
+Mission_Id,Mission_Name,Misson_Category,Mission_Schedule_Category
+1,Service_Type_1,Maintenance,Scheduled
+2,Service_Type_2,Maintenance,Scheduled
+3,Service_Type_3,Maintenance,Scheduled
+4,Unsheduled Workshop Maintenance,Maintenance,UnScheduled
+5,Unsheduled Field Maintenance,Maintenance,UnScheduled
+6,Scheduled Pit Hauling,Work,Scheduled
+7,Scheduled Other Hauling,Work,Scheduled

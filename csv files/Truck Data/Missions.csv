@@ -1,0 +1,8 @@
+Mission_Id,Mission_Name,Misson_Category,Mission_Schedule_Category,Duration Mean (hrs),Duration SD (hrs),Distance Mean (km),Distance SD (km),Use Fuel,Service period mean (km),Service period SD (km)
+1,Service_Type_1,Maintenance,Scheduled,24,6,0,0.0001,0,1000,0
+2,Service_Type_2,Maintenance,Scheduled,48,12,0,0.0001,0,10000,0
+3,Service_Type_3,Maintenance,Scheduled,96,24,0,0.0001,0,50000,0
+4,Unsheduled Workshop Maintenance,Maintenance,UnScheduled,24,24,0,0.0001,0,50000,10000
+5,Unsheduled Field Maintenance,Maintenance,UnScheduled,24,24,0,0.0001,0,30000,10000
+6,Scheduled Pit Hauling,Work,Scheduled,4,0.5,80,8,1,0,0
+7,Scheduled Other Hauling,Work,Scheduled,4,0.5,80,8,1,0,0

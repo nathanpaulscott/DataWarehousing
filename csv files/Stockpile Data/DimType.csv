@@ -1,0 +1,6 @@
+Type_Id,Type_Location,Type_Tier,Type_Name
+1,SP,0,Stockpiled
+2,IG,0,Under Extraction
+3,IG,1,Inground Resources Tier 1
+4,IG,2,Inground Resources Tier 2
+5,IG,3,Inground Resources Tier 3
