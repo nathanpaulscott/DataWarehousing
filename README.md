@@ -1,2 +1,2 @@
 # DataWarehousing-Project
-A data warehousing project I did at UWA using python, mssql and power BI for a hypothetical mining company
+A quick data warehousing project I did at uni using python, mssql and power BI for a hypothetical mining company
